@@ -1,0 +1,36 @@
+/* Styles for Section */
+
+main h1 {
+    text-align: center;
+    font-size: 50px;
+    padding: 25px 50px;
+}
+
+main p {
+    text-align: center;
+    font-size: 30px;
+    padding: 25px 50px
+}
+main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+/* Footer */
+
+footer{
+    padding-top: 25px;
+    text-align: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:50px;
+    background:lightcoral;//optional
+}
+
+/* Cookie */
+
+
+
